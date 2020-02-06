@@ -1,4 +1,4 @@
-1. Age: (numeric)age of the client who might have taken loan
+### 1. Age: (numeric)age of the client who might have taken loan
 
 2. Job: type of job of the client (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
 
