@@ -1,4 +1,5 @@
-Age: (numeric)age of the client who might have taken loan 
+Age: (numeric)age of the client who might have taken loan
+
 Job: type of job of the client (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
 Marital: marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
 Education: Education of the client is mentioned(categorical: primary, secondary, tertiary and unknown) The level of education has significant impact on the amount of balance client has.
