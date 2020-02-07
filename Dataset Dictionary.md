@@ -1,4 +1,4 @@
-# Bank_Marketing_Dataset
+# Bank Marketing Dataset Dictinary
 
 
 
