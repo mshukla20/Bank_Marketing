@@ -1,2 +1,2 @@
 # Bank_Marketing
-The data set contains information about a marketing campaign of a financial institution. Purpose of the repository is to analyze the Data set and find insights which will help improve the marketing strategies.
+The marketing bank dataset gives information about a marketing campaign of a financial institution in which we will analyze ways to look for future strategies in order to improve future marketing campaigns for the bank.
