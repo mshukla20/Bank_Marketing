@@ -1,4 +1,4 @@
-# Bank Marketing Dataset Dictinary
+# Bank Marketing Dataset Dictionary
 
 
 
